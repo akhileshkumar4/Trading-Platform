@@ -134,9 +134,16 @@ POST /api/trade
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-*Add your UI screenshots here*
+Login Page
+
+<img width="1920" height="873" alt="Login Page" src="https://github.com/user-attachments/assets/a60d24a5-594d-4082-ab8a-41dc0cefee51" />
+
+Home Page
+
+<img width="1920" height="918" alt="Home Page" src="https://github.com/user-attachments/assets/63b8f6dc-4e78-4916-a1fe-aea4307f3cc7" />
+
 
 ---
 
